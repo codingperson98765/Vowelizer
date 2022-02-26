@@ -1,5 +1,5 @@
 //Ahmedh Shamsudeen 30121541
-//Based of tutorial code by William Black
+
 #include<stdio.h>
 #include<time.h>
 #include<sys/socket.h>
