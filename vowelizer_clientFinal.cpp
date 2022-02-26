@@ -1,4 +1,4 @@
-//Ahmedh Shamsudeen 30121541
+//Ahmedh Shamsudeen 
 
 #include<stdio.h>
 #include<time.h>
